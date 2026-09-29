@@ -1,4 +1,7 @@
-## Hi there 👋
+## Desarrollador web
+Mi nombre es Kevin tengo 20 años. Cuento con un titulo como técnico en programación de software, un titulo como tecnólogo en analisis y desarrollo de software y actualmente me ecuentro estudiando la carrera de ingenieria en software
+## Protafolio
+https://portafolio-5j0g7uzx3-aroca3282-9488s-projects.vercel.app/
 
 <!--
 **Helinks/Helinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
